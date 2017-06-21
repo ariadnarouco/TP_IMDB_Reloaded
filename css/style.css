@@ -1,0 +1,4 @@
+.control-label:before {
+   content:"* ";
+   color:red;
+}
